@@ -125,6 +125,9 @@
       <find>has</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -201,6 +204,7 @@
     <option name="width" value="1920" />
     <option name="height" value="978" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -275,12 +279,12 @@
       <workItem from="1621763958334" duration="186000" />
       <workItem from="1621764148046" duration="2029000" />
       <workItem from="1621766560431" duration="1295000" />
-      <workItem from="1621768044589" duration="18847000" />
+      <workItem from="1621768044589" duration="20001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139611000" />
+    <option name="totallyTimeSpent" value="140765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -290,10 +294,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="8" weight="0.3115339" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32953367" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33021808" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.32955772" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28101403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28101403" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
