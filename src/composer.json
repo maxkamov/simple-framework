@@ -1,0 +1,15 @@
+{
+    "name": "maxkamov48/src",
+    "authors": [
+        {
+            "name": "maxkamov48",
+            "email": "maxkamov48@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
